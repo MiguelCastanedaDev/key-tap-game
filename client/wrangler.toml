@@ -1,0 +1,3 @@
+name = "key-tap-game"
+main = "./dist/server/entry.mjs"
+compatibility_date = "2025-03-12"
